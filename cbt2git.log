@@ -1,0 +1,14 @@
+2025-04-04 02:48:30.325859 - Received CBT.V508.FILE066.PDS from FILE066.XMI 
+2025-04-04 02:48:30.326757 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/$$$#DATE
+2025-04-04 02:48:30.326897 - Found $$DOC.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/$$DOC
+2025-04-04 02:48:30.327028 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/$PDSLOAD
+2025-04-04 02:48:30.327194 - Found #PDSLOAD.bin (application/octet-stream) in CBT.V508.FILE066.PDS, moved to PDS/#PDSLOAD
+2025-04-04 02:48:30.327367 - Found @FILE066.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/@FILE066
+2025-04-04 02:48:30.327592 - Found ASM.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/ASM
+2025-04-04 02:48:30.327722 - Found CLIST.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/CLIST
+2025-04-04 02:48:30.327842 - Found CNTL.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/CNTL
+2025-04-04 02:48:30.327956 - Found INFOSYS.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/INFOSYS
+2025-04-04 02:48:30.328074 - Found MACROS.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/MACROS
+2025-04-04 02:48:30.328245 - Found PANELS.bin (application/octet-stream) in CBT.V508.FILE066.PDS, moved to PDS/PANELS
+2025-04-04 02:48:30.328379 - Found PLI.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/PLI
+2025-04-04 02:48:30.328498 - Found USERMODS.txt (text/plain) in CBT.V508.FILE066.PDS, moved to PDS/USERMODS
